@@ -1,0 +1,131 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+
+
+
+
+/* ＝＝＝＝＝ここをコピー＝＝＝＝＝ */
+
+/* .contents02 {
+    position: relative;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.position02 {
+    position: absolute;
+    top: 92%;
+    left: 23%;
+}
+
+.button02 {
+    width: 75%;
+} */
+
+/* ＝＝＝＝＝＝＝＝＝＝＝＝＝＝ */
+
+.contents01 {
+    width: 100%;
+}
+
+.contents02 {
+    position: relative;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.position0101 {
+    position: absolute;
+    top: 134%;
+    left: 13%;
+}
+
+.button01 {
+    width: 83.5%;
+}
+
+.position0102 {
+    position: absolute;
+    top: 143%;
+    left: 13%;
+}
+
+.button02 {
+    width: 83.5%;
+}
+
+
+
+.contents03 {
+    position: relative;
+}
+
+.contents3 {
+    width: 100%;
+}
+
+.position03 {
+    position: absolute;
+    top: 176.5%;
+    left: 0%;
+}
+
+.button03 {
+    width: 100%;
+}
+
+
+
+.contents4 {
+    width: 100%;
+}
+
+
+.contents5 {
+    width: 100%;
+}
+
+
+
+.exhibitor {
+    overflow: hidden;
+    margin-bottom: 3px;
+}
+
+/* .format_part {
+    width: 320px;
+} */
+
+.format {
+    width: 78.6%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.bottom_part {
+    width: 20.4%;
+    float: right;
+    margin-left: 3px;
+}
+
+.zoom {
+    width: 110%;
+    /* height: 72px; */
+
+}
+
+.hp {
+    width: 110%;
+    /* height: 72px; */
+}
+
+.contents6 {
+    width: 100%;
+}
